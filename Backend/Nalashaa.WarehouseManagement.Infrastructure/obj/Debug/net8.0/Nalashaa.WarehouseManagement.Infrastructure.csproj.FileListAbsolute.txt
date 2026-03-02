@@ -1,0 +1,15 @@
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.deps.json
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.pdb
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Domain.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Domain.pdb
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.AssemblyInfo.cs
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\Nalashaa.A09AFFD8.Up2Date
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\refint\Nalashaa.WarehouseManagement.Infrastructure.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.pdb
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Infrastructure\obj\Debug\net8.0\ref\Nalashaa.WarehouseManagement.Infrastructure.dll

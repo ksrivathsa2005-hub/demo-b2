@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nalashaa.WarehouseManagement.Domain/1.0.0": {
+        "runtime": {
+          "Nalashaa.WarehouseManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nalashaa.WarehouseManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

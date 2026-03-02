@@ -1,0 +1,17 @@
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Service.deps.json
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Service.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Service.pdb
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Domain.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Domain.pdb
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\bin\Debug\net8.0\Nalashaa.WarehouseManagement.Infrastructure.pdb
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Service.csproj.AssemblyReference.cache
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Service.AssemblyInfoInputs.cache
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Service.AssemblyInfo.cs
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Service.csproj.CoreCompileInputs.cache
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\Nalashaa.FB9E9129.Up2Date
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Service.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\refint\Nalashaa.WarehouseManagement.Service.dll
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\Nalashaa.WarehouseManagement.Service.pdb
+c:\Users\srivathsa\Downloads\NalashaaWarehouseManagement\Backend\Nalashaa.WarehouseManagement.Service\obj\Debug\net8.0\ref\Nalashaa.WarehouseManagement.Service.dll

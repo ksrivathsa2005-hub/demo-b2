@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build">
+  <Sdk Name="Microsoft.Build.Sql" Version="0.1.12-preview" />
+  <PropertyGroup>
+    <Name>Nalashaa.WarehouseManagement.Database</Name>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
+    <ModelCollation>1033, CI</ModelCollation>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <ProjectGuid>{11cd531c-6fe6-46f2-a8cc-9bd3e7e9c74e}</ProjectGuid>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <RuntimeIdentifiers>win;win-x64</RuntimeIdentifiers>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Master\" />
+    <Folder Include="Master\Tables\" />
+    <Folder Include="Transactional\" />
+    <Folder Include="Transactional\Tables\" />
+    <Folder Include="Security\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="Master\Tables\ReasonCodes.sql" />
+    <Build Include="Master\Tables\BomComponents.sql" />
+    <Build Include="Master\Tables\BomHeader.sql" />
+    <Build Include="Master\Tables\Bins.sql" />
+    <Build Include="Master\Tables\Racks.sql" />
+    <Build Include="Master\Tables\Suppliers.sql" />
+    <Build Include="Master\Tables\Products.sql" />
+    <Build Include="Master\Tables\Uoms.sql" />
+    <Build Include="Master\Tables\Facilities.sql" />
+    <Build Include="Master\Tables\FacilityTypes.sql" />
+    <Build Include="Transactional\Tables\InternalTransferOrders.sql" />
+    <Build Include="Transactional\Tables\InternalTransferOrderItems.sql" />
+    <Build Include="Transactional\Tables\ReplenishmentOrders.sql" />
+    <Build Include="Transactional\Tables\Inventory.sql" />
+    <Build Include="Transactional\Tables\StockTransactions.sql" />
+    <Build Include="Security\Transactional.sql" />
+    <Build Include="Security\Master.sql" />
+  </ItemGroup>
+</Project>

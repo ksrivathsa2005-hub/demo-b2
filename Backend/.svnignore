@@ -1,0 +1,34 @@
+# WMS Platform - SVN Ignore Patterns
+
+# Build Output
+bin/
+obj/
+debug/
+release/
+x64/
+x86/
+
+# IDE specific
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages & Dependencies
+node_modules/
+dist/
+packages/
+.nuget/
+
+# Environment settings
+appsettings.Development.json
+.env
+.env.local
+
+# Temp Files
+*.tmp
+*.log
+*.swp
